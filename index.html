@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <script src="./js/js.js"></script>
+
+    <style>
+        body, html {
+            background-color: #eee;
+        }
+        #NM small{
+            width: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-5">
+        
+        <div class="row" id="content-t">
+            <div class="col-sm-6 col-lg-5 mx-auto">
+                <form onsubmit="return false;" class="form-inline">
+                    <div class="form-group">
+                        <input id="inp-t" type="number" class="form-control" placeholder="ingrese numero de T">
+                    </div>
+                    <div class="form-group text-right px-2">
+                        <button class="btn btn-info" data-t>Agregar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="row" id="NM"></div>
+        
+    </div>
+</body>
+</html>
