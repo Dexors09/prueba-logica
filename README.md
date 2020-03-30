@@ -1,6 +1,29 @@
-# prueba-logica
+# Examen de logica
 
-usar:
-https://github.com/Dexors09/prueba-logica.git
+prueba de logica para recorrer un grid
 
-realizado con tecnologias web cono html, css y js, solo se tiene que abrir en el navegador el archivo index.html
+## Comenzando 🚀
+
+clonar el proyecto: https://github.com/Dexors09/prueba-logica.git
+
+
+### Pre-requisitos 📋
+
+un navegador web
+
+```
+Firefox, Chrome...
+```
+
+### Instalación 🔧
+abrir el archivo index.html en el navegador
+
+## Construido con 🛠️
+
+* HTML
+* CSS
+* Javascript
+
+## Autores ✒️
+
+* **Osvaldo González** 😊
